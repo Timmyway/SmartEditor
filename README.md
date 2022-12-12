@@ -11,7 +11,7 @@ It is a simple text editor built from codemirror. On the left side,
 ## Usage
 
 Paste HTML code into the editor, the preview should appear.
-- You can searc and replace text.
+- You can search and replace text.
 - You can preview in fullscreen.
 
 ## License
