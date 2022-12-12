@@ -1,24 +1,19 @@
-# smarteditor
+# Smarteditor
 
-## Project setup
-```
-npm install
-```
+It is a simple text editor built from codemirror. On the left side, 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Installation
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- Clone the repo
+- npm install
+- npm run serve
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Usage
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Paste HTML code into the editor, the preview should appear.
+- You can searc and replace text.
+- You can preview in fullscreen.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
